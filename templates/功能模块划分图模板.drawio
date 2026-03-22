@@ -1,0 +1,61 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
+  <diagram id="function-module-template" name="功能模块划分图模板">
+    <mxGraphModel dx="894" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="1850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="系统功能模块" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="520" y="60" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="角色A" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="110" y="180" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="角色B" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="400" y="180" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="角色C" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="690" y="180" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="公共能力" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="980" y="180" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="功能A1&amp;#xa;功能A2&amp;#xa;功能A3" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="95" y="300" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="功能B1&amp;#xa;功能B2&amp;#xa;功能B3" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="385" y="300" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="功能C1&amp;#xa;功能C2&amp;#xa;功能C3" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="675" y="300" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="能力1&amp;#xa;能力2&amp;#xa;能力3" style="whiteSpace=wrap;html=1;strokeWidth=2;fontSize=17;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="965" y="300" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;fontSize=17;" parent="1" source="2" target="3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;fontSize=17;" parent="1" source="2" target="4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;fontSize=17;" parent="1" source="2" target="5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;fontSize=17;" parent="1" source="2" target="6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;fontSize=17;" parent="1" source="3" target="7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;fontSize=17;" parent="1" source="4" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;fontSize=17;" parent="1" source="5" target="9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;fontSize=17;" parent="1" source="6" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
